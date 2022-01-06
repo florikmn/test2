@@ -1,5 +1,5 @@
 {
-    "PRIVATE_COOKIE": "37uFPrDAvRqqMdzXFUcw15w86MiqKwshMz"
+    "PRIVATE_COOKIE": "PHPSESSID=37uFPrDAvRqqMdzXFUcw15w86MiqKwshMz"
 }
 - Commit new file, upload another file, name is "Procfile" and content is:
 worker: npm i && node index.js
