@@ -1,9 +1,3 @@
 {
     "PRIVATE_COOKIE": "PHPSESSID=37uFPrDAvRqqMdzXFUcw15w86MiqKwshMz"
 }
-- Commit new file, upload another file, name is "Procfile" and content is:
-worker: npm i && node index.js
-- Commit new file, upload another file, name is "index.js" and content is:
-Copy and paste from "https://paste-bin.xyz/30799"
-- Commit new file, upload another file, name is "package.json" and content is:
-Copy and paste from "https://paste-bin.xyz/30800"
